@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "fsscmGTQUSADcXZDU/SCMNZ7IwVTQt4cNBgSKFLgacx8ys0G2GHpk1HJoKh8sA79/rHa9k+UC8wKaZYcJPPRSg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Walakaka\\source\\repos\\S3-Presigned-URL-Put\\S3-Presigned-URL-Put\\S3-Presigned-URL-Put.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Walakaka\\.nuget\\packages\\awssdk.core\\3.7.106.43\\awssdk.core.3.7.106.43.nupkg.sha512",
+    "C:\\Users\\Walakaka\\.nuget\\packages\\awssdk.s3\\3.7.104.23\\awssdk.s3.3.7.104.23.nupkg.sha512"
+  ],
+  "logs": []
+}
